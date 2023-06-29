@@ -1,0 +1,12 @@
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.deps.json
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.pdb
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.AssemblyReference.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.CoreCompileInputs.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\refint\BurgerApp.Domain.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll

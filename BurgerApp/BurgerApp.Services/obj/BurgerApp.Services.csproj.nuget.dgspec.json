@@ -1,0 +1,326 @@
+{
+  "format": 1,
+  "restore": {
+    "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {}
+  },
+  "projects": {
+    "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+        "projectName": "BurgerApp.DataAccess",
+        "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\alekd\\.nuget\\packages\\",
+        "outputPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alekd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "projectName": "BurgerApp.Domain",
+        "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\alekd\\.nuget\\packages\\",
+        "outputPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alekd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
+        "projectName": "BurgerApp.Mappers",
+        "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
+        "packagesPath": "C:\\Users\\alekd\\.nuget\\packages\\",
+        "outputPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alekd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+              },
+              "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+                "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "projectName": "BurgerApp.Services",
+        "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "packagesPath": "C:\\Users\\alekd\\.nuget\\packages\\",
+        "outputPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alekd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
+                "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
+              },
+              "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
+                "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj"
+              },
+              "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+                "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+        "projectName": "BurgerApp.ViewModels",
+        "projectPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\alekd\\.nuget\\packages\\",
+        "outputPath": "B:\\Github\\BurgerApp_MVC_Homework\\BurgerApp\\BurgerApp.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alekd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

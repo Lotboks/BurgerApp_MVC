@@ -1,0 +1,17 @@
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.DataAccess.deps.json
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.DataAccess.runtimeconfig.json
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.Domain.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.Domain.pdb
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.csproj.AssemblyReference.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.AssemblyInfoInputs.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.AssemblyInfo.cs
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.csproj.CoreCompileInputs.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.csproj.CopyComplete
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\refint\BurgerApp.DataAccess.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.pdb
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.genruntimeconfig.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\ref\BurgerApp.DataAccess.dll

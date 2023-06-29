@@ -1,0 +1,12 @@
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\bin\Debug\net6.0\BurgerApp.Shared.deps.json
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\bin\Debug\net6.0\BurgerApp.Shared.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\bin\Debug\net6.0\BurgerApp.Shared.pdb
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.csproj.AssemblyReference.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.AssemblyInfoInputs.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.AssemblyInfo.cs
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.csproj.CoreCompileInputs.cache
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\refint\BurgerApp.Shared.dll
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.pdb
+B:\Github\BurgerApp_MVC_Homework\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\ref\BurgerApp.Shared.dll
